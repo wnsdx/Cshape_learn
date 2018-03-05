@@ -1,0 +1,8 @@
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\bin\Debug\SocketForm.exe
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\bin\Debug\SocketForm.pdb
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\obj\x86\Debug\SocketForm.csprojResolveAssemblyReference.cache
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\obj\x86\Debug\SocketForm.Form1.resources
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\obj\x86\Debug\SocketForm.Properties.Resources.resources
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\obj\x86\Debug\SocketForm.csproj.GenerateResource.Cache
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\obj\x86\Debug\SocketForm.exe
+E:\奶茶机\奶茶项目中控程序自写\SocketForm\SocketForm\obj\x86\Debug\SocketForm.pdb

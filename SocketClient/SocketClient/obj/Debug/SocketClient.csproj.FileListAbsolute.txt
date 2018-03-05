@@ -1,0 +1,9 @@
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\奶茶机\奶茶项目中控程序自写\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
